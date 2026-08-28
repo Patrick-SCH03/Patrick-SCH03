@@ -53,7 +53,6 @@ AI 에이전트와 자동화 도구 만들기를 좋아하는 인하대학교 �
 | 💰 [**budget-book**](https://github.com/Patrick-SCH03/budget-book) | 나만의 가계부 웹앱 — 토스 TDS 스타일 단일 HTML | `HTML` `JS` |
 | 🏃 [**MOVE-AI-CHALLENGE-2026**](https://github.com/Patrick-SCH03/MOVE-AI-CHALLENGE-2026) | MOVE AI 챌린지 2026 참가 프로젝트 | `Python` `JS` |
 | 🤖 [**Student-Council_AI_Agent**](https://github.com/Patrick-SCH03/Student-Council_AI_Agent) | 학생회 업무 자동화 AI 에이전트 | `Python` `TS` |
-| 🧱 [**project-template**](https://github.com/Patrick-SCH03/project-template) | 내 프로젝트 표준 템플릿 — 테스트 · CI · README 골격 | `HTML` `JS` |
 
 <br/>
 
