@@ -32,42 +32,28 @@ AI 에이전트와 자동화 도구 만들기를 좋아하는 인하대학교 �
 
 <br/>
 
-<!-- ③ 스탯 + 언어 카드 -->
+<!-- ③ 스탯 + 언어 카드 (GitHub Action이 매일 자동 생성) -->
 ## 📊 GitHub Stats
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Patrick-SCH03&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrick-SCH03&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&langs_count=8" alt="top langs" />
-
-<!-- ⑤ 트로피 -->
+<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="profile details" />
 <br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Patrick-SCH03&theme=tokyonight&no-frame=true&no-bg=true&column=4&margin-w=8&margin-h=8" alt="trophies" />
+<img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="stats" />
+<img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="repos per language" />
+<br/>
+<img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" alt="most commit language" />
+<img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" alt="productive time" />
 
 <br/>
 
 <!-- ⑩ 대표 프로젝트 -->
 ## 🚀 Featured Projects
 
-<a href="https://github.com/Patrick-SCH03/budget-book">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-SCH03&repo=budget-book&theme=tokyonight&hide_border=true&bg_color=00000000" alt="budget-book" />
-</a>
-<a href="https://github.com/Patrick-SCH03/MOVE-AI-CHALLENGE-2026">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-SCH03&repo=MOVE-AI-CHALLENGE-2026&theme=tokyonight&hide_border=true&bg_color=00000000" alt="MOVE-AI-CHALLENGE-2026" />
-</a>
-<br/>
-<a href="https://github.com/Patrick-SCH03/Student-Council_AI_Agent">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-SCH03&repo=Student-Council_AI_Agent&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Student-Council_AI_Agent" />
-</a>
-<a href="https://github.com/Patrick-SCH03/project-template">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Patrick-SCH03&repo=project-template&theme=tokyonight&hide_border=true&bg_color=00000000" alt="project-template" />
-</a>
-
-| 프로젝트 | 소개 |
-|---|---|
-| [**budget-book**](https://github.com/Patrick-SCH03/budget-book) | 나만의 가계부 웹앱 — 토스 TDS 스타일 단일 HTML |
-| [**MOVE-AI-CHALLENGE-2026**](https://github.com/Patrick-SCH03/MOVE-AI-CHALLENGE-2026) | MOVE AI 챌린지 2026 참가 프로젝트 |
-| [**Student-Council_AI_Agent**](https://github.com/Patrick-SCH03/Student-Council_AI_Agent) | 학생회 업무 자동화 AI 에이전트 |
-| [**project-template**](https://github.com/Patrick-SCH03/project-template) | 내 프로젝트 표준 템플릿 — 테스트 · CI · README 골격 |
+| 프로젝트 | 소개 | 스택 |
+|---|---|---|
+| 💰 [**budget-book**](https://github.com/Patrick-SCH03/budget-book) | 나만의 가계부 웹앱 — 토스 TDS 스타일 단일 HTML | `HTML` `JS` |
+| 🏃 [**MOVE-AI-CHALLENGE-2026**](https://github.com/Patrick-SCH03/MOVE-AI-CHALLENGE-2026) | MOVE AI 챌린지 2026 참가 프로젝트 | `Python` `JS` |
+| 🤖 [**Student-Council_AI_Agent**](https://github.com/Patrick-SCH03/Student-Council_AI_Agent) | 학생회 업무 자동화 AI 에이전트 | `Python` `TS` |
+| 🧱 [**project-template**](https://github.com/Patrick-SCH03/project-template) | 내 프로젝트 표준 템플릿 — 테스트 · CI · README 골격 | `HTML` `JS` |
 
 <br/>
 
