@@ -35,8 +35,6 @@ AI 에이전트와 자동화 도구 만들기를 좋아하는 인하대학교 �
 <!-- ③ 스탯 + 언어 카드 (GitHub Action이 매일 자동 생성) -->
 ## 📊 GitHub Stats
 
-<img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" alt="profile details" />
-<br/>
 <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" alt="stats" />
 <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" alt="repos per language" />
 <br/>
