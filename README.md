@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Patrickson&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20%26%20Engineering%20%C2%B7%20Inha%20University&descAlignY=72&descSize=18" width="100%" alt="Patrickson" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Patrickson&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20and%20Engineering%20%C2%B7%20Inha%20University&descAlignY=72&descSize=18" width="100%" alt="Patrickson" />
 
 <a href="https://github.com/Patrick-SCH03">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&size=22&lines=CS%26E+%40+Inha+University;Minor+in+AI+Robotics;Building+AI+Agents" alt="CS&E @ Inha University · Minor in AI Robotics · Building AI Agents" />
