@@ -55,7 +55,7 @@
 
 | Project | Contribution | PR |
 |---|---|---|
-| [**NVIDIA Isaac Lab**](https://github.com/isaac-sim/IsaacLab) | Fixed `project_points` returning the wrong tensor shape for unbatched and single-item batched inputs, with regression tests (backported to 3.0) | [![#8050](https://img.shields.io/badge/%238050-Merged-8957E5?style=flat-square&logo=github&logoColor=white)](https://github.com/isaac-sim/IsaacLab/pull/8050) |
+| [**NVIDIA Isaac Lab**](https://github.com/isaac-sim/IsaacLab) | Fixed three shape and return-value bugs in `isaaclab.utils.math` (point projection, camera frame conversion, pose interpolation), each with regression tests and backported to 3.0 | [![#8050](https://img.shields.io/badge/%238050-Merged-8957E5?style=flat-square&logo=github&logoColor=white)](https://github.com/isaac-sim/IsaacLab/pull/8050)<br>[![#8064](https://img.shields.io/badge/%238064-Merged-8957E5?style=flat-square&logo=github&logoColor=white)](https://github.com/isaac-sim/IsaacLab/pull/8064)<br>[![#8065](https://img.shields.io/badge/%238065-Merged-8957E5?style=flat-square&logo=github&logoColor=white)](https://github.com/isaac-sim/IsaacLab/pull/8065) |
 | [**Microsoft Agent Governance Toolkit**](https://github.com/microsoft/agent-governance-toolkit) | Fixed broken imports across 21 agent-sre docs, examples and notebooks, and rewrote the OWASP ASI10 example against the real API | [![#4145](https://img.shields.io/badge/%234145-Merged-8957E5?style=flat-square&logo=github&logoColor=white)](https://github.com/microsoft/agent-governance-toolkit/pull/4145) |
 
 ## GitHub Stats
