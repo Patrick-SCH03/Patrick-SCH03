@@ -24,7 +24,7 @@
 
 | Competition | Result | Work |
 |---|---|---|
-| **4th Koh Young AI Competition**<br>ICCAS 2026 · Sapporo, Japan | ![Bronze · 3rd Place](https://img.shields.io/badge/Bronze_·_3rd_Place-CD7F32?style=for-the-badge)<br>[Certificate](https://github.com/Patrick-SCH03/kohyoung-ai-competition-2026-argos/blob/main/assets/certificate.jpg) | [**ARGOS**](https://github.com/Patrick-SCH03/kohyoung-ai-competition-2026-argos) plans where the inspection camera shoots and in what order. 3rd of 13 teams, 4.7% better than the reference solver with 18% fewer shots |
+| **4th Koh Young AI Competition**<br>ICCAS 2026 · Sapporo, Japan | ![Bronze · 3rd Place](https://img.shields.io/badge/Bronze_·_3rd_Place-CD7F32?style=for-the-badge)<br>[Certificate](https://github.com/Patrick-SCH03/kohyoung-ai-competition-2026-argos/blob/main/assets/certificate.jpg) | [**ARGOS**](https://github.com/Patrick-SCH03/kohyoung-ai-competition-2026-argos) plans where the inspection camera shoots and in what order. 3rd of 13 teams, 5.4% lower score than Koh Young's baseline solver with 18% fewer shots |
 
 ## Open Source Contributions
 
