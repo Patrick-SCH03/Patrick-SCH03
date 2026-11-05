@@ -28,15 +28,16 @@
 
 ## Open Source Contributions
 
-**24 merged pull requests** across 5 open-source projects
+**26 merged pull requests** across 6 open-source projects
 
 | Project | Contribution | PRs |
 |---|---|---|
-| [**NVIDIA Isaac Lab**](https://github.com/isaac-sim/IsaacLab) | Fixed math utility, terrain generation and reset noise bugs, each with a regression test | [![8 merged](https://img.shields.io/badge/merged-8-8957E5?style=flat-square&logo=github&logoColor=white)](https://github.com/isaac-sim/IsaacLab/pulls?q=is%3Apr+is%3Amerged+author%3APatrick-SCH03) |
+| [**NVIDIA Isaac Lab**](https://github.com/isaac-sim/IsaacLab) | Fixed math utility, terrain generation, reset noise and point cloud filtering bugs | [![9 merged](https://img.shields.io/badge/merged-9-8957E5?style=flat-square&logo=github&logoColor=white)](https://github.com/isaac-sim/IsaacLab/pulls?q=is%3Apr+is%3Amerged+author%3APatrick-SCH03) |
 | [**Microsoft Agent Governance Toolkit**](https://github.com/microsoft/agent-governance-toolkit) | Fixed inverted SLO compliance, double-counted trust decay, a rate-limit token leak and broken provider fallbacks | [![7 merged](https://img.shields.io/badge/merged-7-8957E5?style=flat-square&logo=github&logoColor=white)](https://github.com/microsoft/agent-governance-toolkit/pulls?q=is%3Apr+is%3Amerged+author%3APatrick-SCH03) |
 | [**Chrome DevTools MCP**](https://github.com/ChromeDevTools/chrome-devtools-mcp) | Moved tool tests from a real browser to mocks (1.7 s → 0.03 s per Lighthouse test) and fixed two input edge cases | [![6 merged](https://img.shields.io/badge/merged-6-8957E5?style=flat-square&logo=github&logoColor=white)](https://github.com/ChromeDevTools/chrome-devtools-mcp/pulls?q=is%3Apr+is%3Amerged+author%3APatrick-SCH03) |
 | [**Toss es-toolkit**](https://github.com/toss/es-toolkit) | Fixed Lodash compatibility bugs found by differential testing against Lodash | [![2 merged](https://img.shields.io/badge/merged-2-8957E5?style=flat-square&logo=github&logoColor=white)](https://github.com/toss/es-toolkit/pulls?q=is%3Apr+is%3Amerged+author%3APatrick-SCH03) |
 | [**A2A Python SDK**](https://github.com/a2aproject/a2a-python) | Added warnings for AgentCards missing fields the A2A spec marks REQUIRED | [![1 merged](https://img.shields.io/badge/merged-1-8957E5?style=flat-square&logo=github&logoColor=white)](https://github.com/a2aproject/a2a-python/pulls?q=is%3Apr+is%3Amerged+author%3APatrick-SCH03) |
+| [**Pydantic AI**](https://github.com/pydantic/pydantic-ai) | Updated the contributor guide to match how `make install` sets up pre-commit | [![1 merged](https://img.shields.io/badge/merged-1-8957E5?style=flat-square&logo=github&logoColor=white)](https://github.com/pydantic/pydantic-ai/pulls?q=is%3Apr+is%3Amerged+author%3APatrick-SCH03) |
 
 ## GitHub Stats
 
