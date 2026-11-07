@@ -8,11 +8,11 @@
 
 ## Featured Projects
 
-| Project | Description |
-|---|---|
-| [**ARGOS**](https://github.com/Patrick-SCH03/kohyoung-ai-competition-2026-argos) | AOI inspection planning solver for PCB inspection machines · 3rd place at the 4th Koh Young AI Competition |
-| [**Student Council AI Agent**](https://github.com/Patrick-SCH03/Student-Council_AI_Agent) | Student Council Regulation AI Assistant · multi-agent RAG that answers with clause-level citations, in use at Inha University |
-| [**Ko-Nect**](https://github.com/Patrick-SCH03/MOVE-AI-CHALLENGE-2026) | Same-day KTX delivery where citizens and KTX trains relay parcels · MOVE-AI Challenge 2026, KORAIL track |
+| Project | Description | Links |
+|---|---|---|
+| [**Student Council AI Agent**](https://github.com/Patrick-SCH03/Student-Council_AI_Agent) | Student Council Regulation AI Assistant · multi-agent RAG that answers with clause-level citations, in service at Inha University · LangGraph, Claude, FastAPI, Next.js | [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://ai-agent-patrick-16be.vercel.app)<br>[![Release](https://img.shields.io/github/v/release/Patrick-SCH03/Student-Council_AI_Agent?style=flat-square&label=release&color=8957E5)](https://github.com/Patrick-SCH03/Student-Council_AI_Agent/releases) |
+| [**ARGOS**](https://github.com/Patrick-SCH03/kohyoung-ai-competition-2026-argos) | AOI inspection planning solver that decides where a PCB inspection camera shoots and in what order · 3rd place at the 4th Koh Young AI Competition (ICCAS 2026) | [![Certificate](https://img.shields.io/badge/Certificate-CD7F32?style=flat-square)](https://github.com/Patrick-SCH03/kohyoung-ai-competition-2026-argos/blob/main/assets/certificate.jpg) |
+| [**Ko-Nect**](https://github.com/Patrick-SCH03/MOVE-AI-CHALLENGE-2026) | Same-day KTX delivery where commuting citizens and KTX trains relay parcels door to door, with arrival probability for each channel · MOVE-AI Challenge 2026, KORAIL track | [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://move-ai-mu.vercel.app)<br>[![Release](https://img.shields.io/github/v/release/Patrick-SCH03/MOVE-AI-CHALLENGE-2026?style=flat-square&label=release&color=8957E5)](https://github.com/Patrick-SCH03/MOVE-AI-CHALLENGE-2026/releases) |
 
 ## Team
 
