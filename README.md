@@ -3,13 +3,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Patrickson&fontSize=64&fontColor=ffffff&animation=fadeIn&desc=Computer%20Science%20and%20Engineering%20%C2%B7%20Inha%20University&descAlignY=72&descSize=18" width="100%" alt="Patrickson" />
 
 <a href="https://github.com/Patrick-SCH03">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&size=22&lines=CS%26E+%40+Inha+University;Minor+in+AI+Robotics;Building+AI+Agents;3rd+Place+%C2%B7+Koh+Young+AI+Competition+2026" alt="CS&E @ Inha University · Minor in AI Robotics · Building AI Agents · 3rd Place, Koh Young AI Competition 2026" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&size=22&lines=CS%26E+%40+Inha+University;Minor+in+AI+Robotics;Building+AI+Agents;KOSHIPA+Award+%C2%B7+K-Shipbuilding+Hackathon+2026;3rd+Place+%C2%B7+Koh+Young+AI+Competition+2026" alt="CS&E @ Inha University · Minor in AI Robotics · Building AI Agents · KOSHIPA Award, K-Shipbuilding Hackathon 2026 · 3rd Place, Koh Young AI Competition 2026" />
 </a>
 
 ## Featured Projects
 
 | Project | Description | Links |
 |---|---|---|
+| [**Ripple**](https://github.com/Patrick-SCH03/Ripple) | Design change (ECN) impact analysis for shipyards · a shipbuilding knowledge graph traces how one change spreads to neighboring blocks, purchase orders and schedule, with cost and decision deadline · KOSHIPA Chairman's Award, K-Shipbuilding Hackathon 2026 · FastAPI, Neo4j, React, Claude | [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=railway&logoColor=white)](https://ripple-ecn.up.railway.app) |
 | [**Student Council AI Agent**](https://github.com/Patrick-SCH03/Student-Council_AI_Agent) | Student Council Regulation AI Assistant · multi-agent RAG that answers with clause-level citations, in service at Inha University · LangGraph, Claude, FastAPI, Next.js | [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://ai-agent-patrick-16be.vercel.app)<br>[![Release](https://img.shields.io/github/v/release/Patrick-SCH03/Student-Council_AI_Agent?style=flat-square&label=release&color=8957E5)](https://github.com/Patrick-SCH03/Student-Council_AI_Agent/releases) |
 | [**ARGOS**](https://github.com/Patrick-SCH03/kohyoung-ai-competition-2026-argos) | AOI inspection planning solver that decides where a PCB inspection camera shoots and in what order · 3rd place at the 4th Koh Young AI Competition (ICCAS 2026) | [![Certificate](https://img.shields.io/badge/Certificate-CD7F32?style=flat-square)](https://github.com/Patrick-SCH03/kohyoung-ai-competition-2026-argos/blob/main/assets/certificate.jpg) |
 | [**Ko-Nect**](https://github.com/Patrick-SCH03/MOVE-AI-CHALLENGE-2026) | Same-day KTX delivery where commuting citizens and KTX trains relay parcels door to door, with arrival probability for each channel · MOVE-AI Challenge 2026, KORAIL track | [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel&logoColor=white)](https://move-ai-mu.vercel.app)<br>[![Release](https://img.shields.io/github/v/release/Patrick-SCH03/MOVE-AI-CHALLENGE-2026?style=flat-square&label=release&color=8957E5)](https://github.com/Patrick-SCH03/MOVE-AI-CHALLENGE-2026/releases) |
@@ -24,6 +25,7 @@
 
 | Competition | Result | Work |
 |---|---|---|
+| **2026 K-Shipbuilding Hackathon**<br>MOTIE · KIAT · KOSHIPA · Design track | ![KOSHIPA Chairman's Award](https://img.shields.io/badge/KOSHIPA_Chairman's_Award-1F5EFF?style=for-the-badge) | [**Ripple**](https://github.com/Patrick-SCH03/Ripple) shows what a shipyard design change affects, what it costs and by when to decide. Team lead, built the judgement engine, knowledge graph, AI layer and deployment. Award from the Korea Offshore & Shipbuilding Association among 15 finalist teams |
 | **4th Koh Young AI Competition**<br>ICCAS 2026 · Sapporo, Japan | ![Bronze · 3rd Place](https://img.shields.io/badge/Bronze_·_3rd_Place-CD7F32?style=for-the-badge)<br>[Certificate](https://github.com/Patrick-SCH03/kohyoung-ai-competition-2026-argos/blob/main/assets/certificate.jpg) · [News](https://www.irobotnews.com/news/articleView.html?idxno=49323) | [**ARGOS**](https://github.com/Patrick-SCH03/kohyoung-ai-competition-2026-argos) plans where the inspection camera shoots and in what order. 3rd of 13 teams, 5.4% lower score than Koh Young's baseline solver with 18% fewer shots |
 
 ## Open Source Contributions
